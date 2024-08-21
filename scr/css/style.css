@@ -167,7 +167,7 @@ body{
 
 
 main::after{
-    content: "123";
+    content: "";
     min-height: 100vh;
     width: 100vw;
     background: linear-gradient(120deg, rgba(0, 0, 0, 1) 10%, rgba(0, 0, 0, 0.05926120448179273) 50%, rgba(0, 0, 0, 1) 90%); 
